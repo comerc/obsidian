@@ -10,6 +10,7 @@ tags: [obsidian, howto]
 - [ ] [освоить методологию zettelkasten](https://habr.com/ru/articles/548154/)
 - [x] как применять холст
 - [ ] как запускать скрипт прямо внутри документа
-- [ ] как сделать структуру документа (как в MS Word)
+- [x] как сделать структуру документа (как в MS Word)
 - [ ] Obsidian Git 
 - [ ] Remotely Save
+
