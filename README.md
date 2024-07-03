@@ -1,2 +1,2 @@
-# obsidian 1234567
+# obsidian 12345678
 My Second Mind
